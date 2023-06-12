@@ -1,1 +1,1 @@
-I'm Fujitawa, your not-so-typical guy who dabbles in coding out of sheer boredom. With a knack for problem-solving and love for digital puzzles, I found coding a stimulating way to fill my idle time. This unconventional hobby of mine not only keeps me engaged but also opens a realm of endless possibilities. In essence, I'm just an ordinary person enjoying an extraordinary journey in the world of tech.
+![Мое изображение](https://github.com/Fujitawa/Fujitawa/blob/main/my.gif?raw=true)
