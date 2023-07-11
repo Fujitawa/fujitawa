@@ -1,1 +1,1 @@
-![Мое изображение](https://github.com/Fujitawa/Fujitawa/blob/main/boy.gif)
+![Мое изображение](https://github.com/devibragim/Fujitawa/blob/main/boy.gif)
